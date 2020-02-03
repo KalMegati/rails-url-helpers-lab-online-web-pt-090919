@@ -53,7 +53,10 @@ GEM
       rack-test (>= 0.6.3)
       regexp_parser (~> 1.5)
       xpath (~> 3.2)
+<<<<<<< HEAD
     coderay (1.1.2)
+=======
+>>>>>>> da222fba184d4b6c9e5f4cc53ca318ccb5e57991
     coffee-rails (4.1.1)
       coffee-script (>= 2.2.0)
       railties (>= 4.0.0, < 5.1.x)
@@ -97,9 +100,12 @@ GEM
     nio4r (2.5.2)
     nokogiri (1.10.7)
       mini_portile2 (~> 2.4.0)
+<<<<<<< HEAD
     pry (0.12.2)
       coderay (~> 1.1.0)
       method_source (~> 0.9.0)
+=======
+>>>>>>> da222fba184d4b6c9e5f4cc53ca318ccb5e57991
     public_suffix (4.0.3)
     rack (2.1.2)
     rack-test (0.6.3)
@@ -201,7 +207,10 @@ DEPENDENCIES
   factory_bot_rails
   jbuilder (~> 2.0)
   jquery-rails
+<<<<<<< HEAD
   pry
+=======
+>>>>>>> da222fba184d4b6c9e5f4cc53ca318ccb5e57991
   rails
   rspec-rails
   sass-rails (~> 5.0)
@@ -212,4 +221,8 @@ DEPENDENCIES
   uglifier (>= 1.3.0)
 
 BUNDLED WITH
+<<<<<<< HEAD
    2.1.4
+=======
+   2.0.1
+>>>>>>> da222fba184d4b6c9e5f4cc53ca318ccb5e57991
